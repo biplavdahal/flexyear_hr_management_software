@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687048864507",
+    "project_id": "flex-year",
+    "storage_bucket": "flex-year.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687048864507:android:f8c44cbf0a964a0acaf65e",
+        "android_client_info": {
+          "package_name": "work.flexyear.flex_year_tablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687048864507-it35nplq4la00r13fpjhpdmn23ccjnar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCVLigp5kPYCaa4gWZNAhzQuFvANBcS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687048864507-it35nplq4la00r13fpjhpdmn23ccjnar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
